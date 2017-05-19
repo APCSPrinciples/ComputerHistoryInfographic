@@ -7,7 +7,7 @@ Download your finished infographic by downloading it from canva.com and choosing
 
 Samples of Student Work
 ----------------------
-[Alyssa](AlyssaAdaLovelace.PNG)  
+[Alyssa](AlyssaAdaLovelace.pdf)  
 [Crystal](CrystalTuring.PNG)    
 [Cynthia](CynthiaJacquardLoom.PNG)   
 [Emma](EmmaTuring.PNG)   
