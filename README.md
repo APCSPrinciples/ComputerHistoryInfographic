@@ -7,11 +7,10 @@ Download your finished infographic by downloading it from canva.com and choosing
 
 Samples of Student Work
 ----------------------
-[Alyssa](AlyssaAdaLovelace.pdf)  
-[Crystal](CrystalTuring.PNG)    
-[Cynthia](CynthiaJacquardLoom.PNG)   
-[Emma](EmmaTuring.PNG)   
-[Jing](JingHumanComputers.PNG)   
-[Raineh](RainehGraceHopper.PNG)   
-[Theo](TheoBabbagesDifferenceMachine.PNG)   
-[Xiao Qin](XiaoQinBoole.PNG)   
+[Jeffrey](JeffreyKonradZuse.pdf)   
+[Alyssa](AlyssaAdaLovelace.pdf) 
+[Emily](EmilyGraceHopper.pdf)   
+[Cynthia](CynthiaJacquardLoom.pdf)   
+[Emma](EmmaAlanTuring.pdf)     
+[Theo](TheoBabbage.pdf)   
+ 
