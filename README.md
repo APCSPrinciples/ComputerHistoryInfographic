@@ -9,6 +9,7 @@ Samples of Student Work
 ----------------------
 [Jeffrey](JeffreyKonradZuse.pdf)   
 [Alyssa](AlyssaAdaLovelace.pdf)   
+[Brian](BrianPunchCards.pdf)   
 [Emily](EmilyGraceHopper.pdf)   
 [Cynthia](CynthiaJacquardLoom.pdf)   
 [Emma](EmmaAlanTuring.pdf)     
