@@ -7,6 +7,11 @@ Download your finished infographic by downloading it from canva.com and choosing
 
 Samples of Student Work
 ----------------------
+[Briana](BrianaMargaretHamilton.pdf)   
+[Chao](ChaoHex.pdf)   
+[David](DavidGeorgeBoole.pdf)   
+[Jae](JaeKatherineJohnson.pdf)   
+[Peter](PeterTimBerners-Lee.pdf)   
 [Jeffrey](JeffreyKonradZuse.pdf)   
 [Alyssa](AlyssaAdaLovelace.pdf)   
 [Brian](BrianPunchCards.pdf)   
