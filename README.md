@@ -7,7 +7,7 @@ Download your finished infographic by downloading it from canva.com and choosing
 
 Samples of Student Work
 ----------------------
-[Jan](Jan PDP-1 Inforgraphic.pdf)   
+[Jan](JanPDP.pdf)   
 [Carmen](CarminMOUSE.pdf)   
 [Vicky](VickyHealthInformatics.pdf)   
 [Briana](BrianaMargaretHamilton.pdf)   
