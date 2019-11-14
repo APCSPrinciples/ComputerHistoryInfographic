@@ -1,5 +1,5 @@
 # Computer History Infographic
-Pick a topic you find interesting on the history of computer science. Search the web to find ideas on what images, diagrams and other visuals would help to explain your topic. 
+Pick a person or topic you find interesting on the history of computer science. Search the web to find ideas on what images, diagrams and other visuals would help to explain your topic. 
  
 Register for free at [Canva.com](http://www.canva.com). Click [here](https://www.youtube.com/watch?v=W1v3ILOnfGs) to watch a video for some ideas on how to make your infographic. Canva.com also has a number of templates you can start with to create an infographic on your topic.
  
