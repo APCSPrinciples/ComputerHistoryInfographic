@@ -7,19 +7,18 @@ Download your finished infographic by downloading it from canva.com and choosing
 
 Samples of Student Work
 ----------------------
+[Emily](EmilyGraceHopper.pdf)   
+[Emma](EmmaAlanTuring.pdf)  
+[Briana](BrianaMargaretHamilton.pdf)   
+[David](DavidGeorgeBoole.pdf)   
+[Jae](JaeKatherineJohnson.pdf)   
+[Jeffrey](JeffreyKonradZuse.pdf)   
+[Alyssa](AlyssaAdaLovelace.pdf)   
+[Peter](PeterTimBerners-Lee.pdf)  
 [Jan](JanPDP.pdf)   
 [Carmen](CarminMOUSE.pdf)   
 [Vicky](VickyHealthInformatics.pdf)   
-[Briana](BrianaMargaretHamilton.pdf)   
-[Chao](ChaoHex.pdf)   
-[David](DavidGeorgeBoole.pdf)   
-[Jae](JaeKatherineJohnson.pdf)   
-[Peter](PeterTimBerners-Lee.pdf)   
-[Jeffrey](JeffreyKonradZuse.pdf)   
-[Alyssa](AlyssaAdaLovelace.pdf)   
 [Brian](BrianPunchCards.pdf)   
-[Emily](EmilyGraceHopper.pdf)   
 [Cynthia](CynthiaJacquardLoom.pdf)   
-[Emma](EmmaAlanTuring.pdf)     
 [Theo](TheoBabbage.pdf)   
  
