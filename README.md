@@ -11,7 +11,7 @@ Pick a person or topic you find interesting on the history of computer science. 
 |Serafin Diaz|	Jessica Skye| Paul	Mark Dean|	Edith Clarke|	Leanne Pittsford|	Anne Aaron		|
 |Charlie Ortiz|	Joe Manuel|	John Henry Thompson	|	Angelica Ross|	André Trương| Trọng Thi		|
 |Daniel Loreto	|Johnnie Jae	|Kimberly Bryant|	|	Megan Smith| Christopher Strachey|	Zhang Yiming		|
-|Edaena Salinas	|Jonathan Fisk	|	Katherine Johnson|**Black and Female:** |	Alan Turing|Xiaoyuan Tu		|
+|Edaena Salinas	|Jonathan Fisk	|Bria Sullivan|**Black and Female:** |	Alan Turing|Xiaoyuan Tu		|
 |Eiling Ferdaws|	Kat Li|	Tsion Behailu|	Fay Cobb Payton|	Edith Windsor	|Kanchana Kanchanasut		|
 |Gemma Busoni|	Kris Easton|	Khalia Braswell|	Dorothy Vaughan	|	 | Feng-Hsiung Hsu		|
 |Emly Villeda-Principe|	Luke Lightning, PhD	|Bernadette A. Carter|	Annie Easley|	Sofia Kovalevskaya		|	
@@ -21,7 +21,7 @@ Pick a person or topic you find interesting on the history of computer science. 
 |Margaret Domínguez|	Nicole Archambault|	Victoria Nneji	|Lyndsey Scott|	Mary Ann Horton		|	
 |Neiza Torrico|	Tara Astigarraga	|Jamila Parham|	Valerie Taylor|	Audrey Tang		|	
 |Victoria Cháez|	Taraneh BigBow	|Kristen Ransom|	Kimberly Bryant	|			
-|Rosalva Gallardo	| |	Bria Sullivan	|Aisha Bowe		|		
+|Rosalva Gallardo	| |		|Aisha Bowe		|		
  
 Register for free at [Canva.com](http://www.canva.com). Click [here](https://www.youtube.com/watch?v=W1v3ILOnfGs) to watch a video for some ideas on how to make your infographic. Canva.com also has a number of templates you can start with to create an infographic on your topic.
  
