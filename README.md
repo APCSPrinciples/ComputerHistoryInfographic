@@ -2,7 +2,7 @@
 Pick a person or topic you find interesting on the history of computer science. Search the web to find ideas on what images, diagrams and other visuals would help to explain your topic. Here is a list of interesting people of diverse backgrounds in computer science that was prepared by the SFUSD Computer Science department.
 
 | Hispanic Heritage  | Native American Heritage | Black History        | Women’s History Month | LGBTQ Pride Month | API Heritage Month |
-| :---               |    :----:                |          ---:        |:---                   |    :----:         |          ---:      |
+| :----:             |    :----:                |        :----:        |:----:                 |    :----:         |      :----:        |
 | Katia Vega         | Andrea Delgado-Olson     |  Katherine Johnson   | Ada Lovelace          | Tim Cook          | Chieko Asakawa     |
 | Carolina Parada    | Corey Ashley             | Evelyn Boyd Granville| Hedy Lamarr           | Lynn Conway       | Yukihiro Matsumoto |
  
