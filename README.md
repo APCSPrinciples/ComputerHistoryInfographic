@@ -1,5 +1,5 @@
 # Computer Science History Infographic
-Pick a person or topic you find interesting on the history of computer science. Search the web to find ideas on what images, diagrams and other visuals would help to explain your topic. Here is a list of interesting people of diverse backgrounds in computer science that was prepared by the SFUSD Computer Science department.
+Pick a person or topic you find interesting on the history of computer science. Search the web to find ideas on what images, diagrams and other visuals would help to explain your topic. Here is a list of people of diverse backgrounds in computer science that was prepared by the SFUSD Computer Science department for Cultural Heritage Posters.
 
 | Hispanic Heritage  | Native American Heritage | Black History        | Women’s History Month | LGBTQ Pride Month | API Heritage Month |
 | :----:             |    :----:                |        :----:        |:----:                 |    :----:         |      :----:        |
