@@ -15,7 +15,7 @@ Pick a person or topic you find interesting on the history of computer science. 
 |Eiling Ferdaws|	Kat Li|	Tsion Behailu|	Fay Cobb Payton|	Edith Windsor	|Kanchana Kanchanasut		|
 |Gemma Busoni|	Kris Easton|	Khalia Braswell|	Dorothy Vaughan	|	 | Feng-Hsiung Hsu		|
 |Emly Villeda-Principe|	Luke Lightning, PhD	|Bernadette A. Carter|	Annie Easley|	Sofia Kovalevskaya		|	
-|Ilse Alántara|	Maria Running| Fisher Jones|	Clennita Justice	|Melba Mouton|	Peter Landin	|Shigeru Miyamot|	
+|Ilse Alántara|	Maria Running Fisher Jones|	Clennita Justice	|Melba Mouton|	Peter Landin	|Shigeru Miyamot|	
 |Lolita Taub|	Matthew Yazzie|	Audrei Drummond|	Gladys West|	Jon Hall	|		
 |Ilona Bodnar|	Meredith Burkle|	Christina Morillo	|Window Snyder|	Sophie Wilson	|		
 |Margaret Domínguez|	Nicole Archambault|	Victoria Nneji	|Lyndsey Scott|	Mary Ann Horton		|	
