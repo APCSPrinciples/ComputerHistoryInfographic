@@ -21,7 +21,7 @@ Pick a person or topic you find interesting on the history of computer science. 
 |Margaret Domínguez|	Nicole Archambault|	Victoria Nneji	|Lyndsey Scott|	Mary Ann Horton		|	
 |Neiza Torrico|	Tara Astigarraga	|Jamila Parham|	Valerie Taylor|	Audrey Tang		|	
 |Victoria Cháez|	Taraneh BigBow	|Kristen Ransom|	Kimberly Bryant	|			
-|Rosalva Gallardo	|	Bria Sullivan	|Aisha Bowe		|		
+|Rosalva Gallardo	| |	Bria Sullivan	|Aisha Bowe		|		
  
 Register for free at [Canva.com](http://www.canva.com). Click [here](https://www.youtube.com/watch?v=W1v3ILOnfGs) to watch a video for some ideas on how to make your infographic. Canva.com also has a number of templates you can start with to create an infographic on your topic.
  
