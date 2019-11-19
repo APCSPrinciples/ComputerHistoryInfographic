@@ -9,7 +9,7 @@ One source of ideas is this [list of people of diverse backgrounds in computer s
 | :----:             |    :----:                |        :----:        |:----:                 |    :----:         |      :----:        |							
 | Katia Vega         | Andrea Delgado-Olson     |  Katherine Johnson   | Ada Lovelace          | Tim Cook          | Chieko Asakawa    |							
 | Carolina Parada    | Corey Ashley             | Evelyn Boyd Granville| Hedy Lamarr           | Lynn Conway       | Yukihiro Matsumoto 					
-|Diana Macias|	Danielle Forward	|Evelyn Boyd Granville	|Grace Hopper|	Dominique Deguzman|	Yukihiro Matsumoto	|	
+|Diana Macias|	Danielle Forward	|Evelyn Boyd Granville	|Grace Hopper|	Dominique Deguzman|	Shigeru Miyamot		|	
 |Angelica Pando|	Dezbah Hatathli|	Roy L. Clay, Sr.|	Jean E. Sammet|	James Felton| Keith	Sundar Pichai	|	
 |Carlos Guestrin|	Gracie Young|	Clarence “Skip” Ellis|	Kathleen Antonelli|	Peter Landin	|Ruchi Sanghvi		|
 |Serafin Diaz|	Jessica Skye| Paul	Mark Dean|	Edith Clarke|	Leanne Pittsford|	Anne Aaron		|
@@ -18,12 +18,12 @@ One source of ideas is this [list of people of diverse backgrounds in computer s
 |Edaena Salinas	|Jonathan Fisk	|Bria Sullivan|**Black and Female:** |	Alan Turing|Xiaoyuan Tu		|
 |Eiling Ferdaws|	Kat Li|	Tsion Behailu|	Fay Cobb Payton|	Edith Windsor	|Kanchana Kanchanasut		|
 |Gemma Busoni|	Kris Easton|	Khalia Braswell|	Dorothy Vaughan	|	Sofia Kovalevskaya | Feng-Hsiung Hsu		|
-|Emly Villeda-Principe|	Luke Lightning, PhD	|Bernadette A. Carter|	Annie Easley|	|Shigeru Miyamot		|	
+|Emly Villeda-Principe|	Luke Lightning, PhD	|Bernadette A. Carter|	Annie Easley|	Audrey Tang	|	|	
 |Ilse Alántara|	Maria Running Fisher Jones|	Clennita Justice	|Melba Mouton|	Peter Landin	||	
 |Lolita Taub|	Matthew Yazzie|	Audrei Drummond|	Gladys West|	Jon Hall	|		
 |Ilona Bodnar|	Meredith Burkle|	Christina Morillo	|Window Snyder|	Sophie Wilson	|		
 |Margaret Domínguez|	Nicole Archambault|	Victoria Nneji	|Lyndsey Scott|	Mary Ann Horton		|	
-|Neiza Torrico|	Tara Astigarraga	|Jamila Parham|	Valerie Taylor|	Audrey Tang		|	
+|Neiza Torrico|	Tara Astigarraga	|Jamila Parham|	Valerie Taylor|		|	
 |Victoria Cháez|	Taraneh BigBow	|Kristen Ransom|	Kimberly Bryant	|			
 |Rosalva Gallardo	| |		|Aisha Bowe		|		
 
