@@ -10,7 +10,7 @@ Pick a person or topic you find interesting on the history of computer science. 
 |Carlos Guestrin|	Gracie Young|	Clarence “Skip” Ellis|	Kathleen Antonelli|	Peter Landin	|Ruchi Sanghvi		|
 |Serafin Diaz|	Jessica Skye| Paul	Mark Dean|	Edith Clarke|	Leanne Pittsford|	Anne Aaron		|
 |Charlie Ortiz|	Joe Manuel|	John Henry Thompson	|	Angelica Ross|	André Trương| Trọng Thi		|
-|Daniel Loreto	|Johnnie Jae	|Kimberly Bryant|	|	Megan Smith| Christopher Strachey|	Zhang Yiming		|
+|Daniel Loreto	|Johnnie Jae	|Kimberly Bryant|	Megan Smith| Christopher Strachey|	Zhang Yiming		|
 |Edaena Salinas	|Jonathan Fisk	|Bria Sullivan|**Black and Female:** |	Alan Turing|Xiaoyuan Tu		|
 |Eiling Ferdaws|	Kat Li|	Tsion Behailu|	Fay Cobb Payton|	Edith Windsor	|Kanchana Kanchanasut		|
 |Gemma Busoni|	Kris Easton|	Khalia Braswell|	Dorothy Vaughan	|	Sofia Kovalevskaya | Feng-Hsiung Hsu		|
