@@ -1,5 +1,7 @@
 # Computer Science History Infographic
-Pick a person or topic you find interesting on the history of computer science. Search the web to find ideas on what images, diagrams and other visuals would help to explain your topic. One source of ideas is this [list of people of diverse backgrounds in computer science](https://sites.google.com/sfusd.edu/csplc/resources/cultural-heritage?authuser=0) that was prepared by the SFUSD Computer Science department for Cultural Heritage Posters.
+Pick a person or topic you find interesting on the history of computer science. Search the web to find ideas on what images, diagrams and other visuals would help to explain your topic. 
+
+<font size="3">One source of ideas is this [list of people of diverse backgrounds in computer science](https://sites.google.com/sfusd.edu/csplc/resources/cultural-heritage?authuser=0) that was prepared by the SFUSD Computer Science department for Cultural Heritage Posters.
 
 | Hispanic Heritage  | Native American Heritage | Black History        | Women’s History Month | LGBTQ Pride Month | API Heritage Month 							
 | :----:             |    :----:                |        :----:        |:----:                 |    :----:         |      :----:        |							
@@ -23,7 +25,7 @@ Pick a person or topic you find interesting on the history of computer science. 
 |Victoria Cháez|	Taraneh BigBow	|Kristen Ransom|	Kimberly Bryant	|			
 |Rosalva Gallardo	| |		|Aisha Bowe		|		
 
-Register for free at [Canva.com](http://www.canva.com). Click [here](https://www.youtube.com/watch?v=W1v3ILOnfGs) to watch a video for some ideas on how to make your infographic. Canva.com also has a number of templates you can start with to create an infographic on your topic.
+Register for free at [Canva.com](http://www.canva.com). Click [here](https://www.youtube.com/watch?v=W1v3ILOnfGs) to watch a video for some ideas on how to make your infographic. Canva.com also has a number of templates you can start with to create an infographic on your topic.</font>
  
 Download your finished infographic by downloading it from canva.com and choosing *PDF - standard*. 
 
