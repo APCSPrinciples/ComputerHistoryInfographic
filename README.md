@@ -5,7 +5,7 @@ Download your finished infographic by downloading it from canva.com and choosing
 
 One source of ideas is this [list of people of diverse backgrounds in computer science](https://sites.google.com/sfusd.edu/csplc/resources/cultural-heritage?authuser=0) that was prepared by the SFUSD Computer Science department for Cultural Heritage Posters.
 
-| Hispanic Heritage  | Native American Heritage | Black History        | Women’s History Month | LGBTQ Pride Month | API Heritage Month 							
+| Hispanic Heritage  | Native American Heritage | Black History        | Women’s History Month | LGBTQ Pride Month | Asian & Pacific Islander Heritage Month 							
 | :----:             |    :----:                |        :----:        |:----:                 |    :----:         |      :----:        |							
 | Katia Vega         | Andrea Delgado-Olson     |  Katherine Johnson   | Ada Lovelace          | Tim Cook          | Chieko Asakawa    |							
 | Carolina Parada    | Corey Ashley             | Evelyn Boyd Granville| Hedy Lamarr           | Lynn Conway       | Yukihiro Matsumoto 					
