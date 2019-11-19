@@ -9,7 +9,7 @@ One source of ideas is this [list of people of diverse backgrounds in computer s
 | :----:             |    :----:                |        :----:        |:----:                 |    :----:         |      :----:        |							
 | Katia Vega         | Andrea Delgado-Olson     |  Katherine Johnson   | Ada Lovelace          | Tim Cook          | Chieko Asakawa    |							
 | Carolina Parada    | Corey Ashley             | Evelyn Boyd Granville| Hedy Lamarr           | Lynn Conway       | Yukihiro Matsumoto 					
-|Diana Macias|	Danielle Forward	|Evelyn Boyd Granville	|Grace Hopper|	Dominique Deguzman|	Shigeru Miyamot		|	
+|Diana Macias|	Danielle Forward	|Kristen Ransom	|Grace Hopper|	Dominique Deguzman|	Shigeru Miyamot		|	
 |Angelica Pando|	Dezbah Hatathli|	Roy L. Clay, Sr.|	Jean E. Sammet|	James Felton| Keith	Sundar Pichai	|	
 |Carlos Guestrin|	Gracie Young|	Clarence “Skip” Ellis|	Kathleen Antonelli|	Peter Landin	|Ruchi Sanghvi		|
 |Serafin Diaz|	Jessica Skye| Paul	Mark Dean|	Edith Clarke|	Leanne Pittsford|	Anne Aaron		|
@@ -24,7 +24,7 @@ One source of ideas is this [list of people of diverse backgrounds in computer s
 |Ilona Bodnar|	Meredith Burkle|	Christina Morillo	|Window Snyder|	Sophie Wilson	|		
 |Margaret Domínguez|	Nicole Archambault|	Victoria Nneji	|Lyndsey Scott|			|	
 |Neiza Torrico|	Tara Astigarraga	|Jamila Parham|	Valerie Taylor|		|	
-|Victoria Cháez|	Taraneh BigBow	|Kristen Ransom|	Kimberly Bryant	|			
+|Victoria Cháez|	Taraneh BigBow	| |	Kimberly Bryant	|			
 |Rosalva Gallardo	| |		|Aisha Bowe		|		
 
 </sub>
