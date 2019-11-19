@@ -7,7 +7,7 @@ One source of ideas is this [list of people of diverse backgrounds in computer s
 
 | Hispanic Heritage  | Native American Heritage | Black History        | Women’s History Month | LGBTQ Pride Month | API Heritage Month 							
 | :----:             |    :----:                |        :----:        |:----:                 |    :----:         |      :----:        |							
-|<sub> Katia Vega         | Andrea Delgado-Olson     |  Katherine Johnson   | Ada Lovelace          | Tim Cook          | Chieko Asakawa    |							
+| Katia Vega         | Andrea Delgado-Olson     |  Katherine Johnson   | Ada Lovelace          | Tim Cook          | Chieko Asakawa    |							
 | Carolina Parada    | Corey Ashley             | Evelyn Boyd Granville| Hedy Lamarr           | Lynn Conway       | Yukihiro Matsumoto 					
 |Diana Macias|	Danielle Forward	|Evelyn Boyd Granville	|Grace Hopper|	Dominique Deguzman|	Yukihiro Matsumoto	|	
 |Angelica Pando|	Dezbah Hatathli|	Roy L. Clay, Sr.|	Jean E. Sammet|	James Felton| Keith	Sundar Pichai	|	
