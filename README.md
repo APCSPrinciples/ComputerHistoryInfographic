@@ -19,10 +19,10 @@ One source of ideas is this [list of people of diverse backgrounds in computer s
 |Eiling Ferdaws|	Kat Li|	Tsion Behailu|	Fay Cobb Payton|	Edith Windsor	|Kanchana Kanchanasut		|
 |Gemma Busoni|	Kris Easton|	Khalia Braswell|	Dorothy Vaughan	|	Sofia Kovalevskaya | Feng-Hsiung Hsu		|
 |Emly Villeda-Principe|	Luke Lightning, PhD	|Bernadette A. Carter|	Annie Easley|	Audrey Tang	|	|	
-|Ilse Alántara|	Maria Running Fisher Jones|	Clennita Justice	|Melba Mouton|	Peter Landin	||	
+|Ilse Alántara|	Maria Running Fisher Jones|	Clennita Justice	|Melba Mouton|	Mary Ann Horton	||	
 |Lolita Taub|	Matthew Yazzie|	Audrei Drummond|	Gladys West|	Jon Hall	|		
 |Ilona Bodnar|	Meredith Burkle|	Christina Morillo	|Window Snyder|	Sophie Wilson	|		
-|Margaret Domínguez|	Nicole Archambault|	Victoria Nneji	|Lyndsey Scott|	Mary Ann Horton		|	
+|Margaret Domínguez|	Nicole Archambault|	Victoria Nneji	|Lyndsey Scott|			|	
 |Neiza Torrico|	Tara Astigarraga	|Jamila Parham|	Valerie Taylor|		|	
 |Victoria Cháez|	Taraneh BigBow	|Kristen Ransom|	Kimberly Bryant	|			
 |Rosalva Gallardo	| |		|Aisha Bowe		|		
