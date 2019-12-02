@@ -33,7 +33,7 @@ Samples of Student Work
 ----------------------
 [Nikhita](Nikhita.pdf)   
 [Noa](Noa.pdf)   
-[Bernice](Bernice.pdf)      	
+[Bernice](Bernice.pdf)   
 [Kately](Katelyn.pdf)  	   
 [Juwairya](Juwairya.pdf)  	   
 [Angie](Angie.png)    
