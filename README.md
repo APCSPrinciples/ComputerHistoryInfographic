@@ -31,6 +31,12 @@ One source of ideas is this [list of people of diverse backgrounds in computer s
 
 Samples of Student Work
 ----------------------
+[Nikhita](Nikhita.pdf)   
+[Noa](Noa.pdf)   
+[Bernice](Bernice.pdf)   	
+[Kately](Katelyn.pdf)  	
+[Juwairya](Juwairya.pdf)  	
+[Angie](Angie.png)  
 [Emily](EmilyGraceHopper.pdf)   
 [Emma](EmmaAlanTuring.pdf)  
 [Briana](BrianaMargaretHamilton.pdf)   
