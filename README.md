@@ -27,7 +27,7 @@ One source of ideas is this [list of people of diverse backgrounds in computer s
 |Victoria Cháez|	Taraneh BigBow	| |	Kimberly Bryant	|			
 |Rosalva Gallardo	| |		|Aisha Bowe		|		
 
-</sub>
+
 
 Samples of Student Work
 ----------------------
