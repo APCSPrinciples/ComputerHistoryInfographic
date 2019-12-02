@@ -3,7 +3,7 @@ Pick a person or topic you find interesting on the history of computer science. 
  
 Download your finished infographic by downloading it from canva.com and choosing *PDF - standard*. 
 
-One source of ideas is this [list of people of diverse backgrounds in computer science](https://sites.google.com/sfusd.edu/csplc/resources/cultural-heritage?authuser=0) that was prepared by the SFUSD Computer Science department for Cultural Heritage Posters. The table is at the bottom of this page.
+One source of ideas is this [list of people of diverse backgrounds in computer science](https://sites.google.com/sfusd.edu/csplc/resources/cultural-heritage?authuser=0) that was prepared by the SFUSD Computer Science department for Cultural Heritage Posters. A table of names from that list is at the bottom of this page.
 
 Samples of Student Work
 ----------------------
