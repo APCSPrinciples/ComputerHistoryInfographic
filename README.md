@@ -7,7 +7,7 @@ One source of ideas is this [list of people of diverse backgrounds in computer s
 
 Samples of Student Work
 ----------------------
-[Ryan](Ryaninfographic.pdf)   
+[Ryan](RyanInfographic.pdf)   
 [Duan](DuanTrongThi.pdf)   
 [Andrea](AndreaAlanTuring2.png)   
 [Michaela](MichaelaEdithClarke.pdf)   
